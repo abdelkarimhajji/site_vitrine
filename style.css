@@ -1147,8 +1147,9 @@ header img.logo{
               padding: 12px;
               margin-bottom: 6px;
               height: 120px;
-              width: 96%;
+              width: 94.2%;
               margin-top: -100px;
+              margin-left:px;
              }
             #chevron:before {
               content: '';
@@ -1164,7 +1165,7 @@ header img.logo{
               content: '';
               position: absolute;
               top: ;
-              right: 5px;
+              right: 1px;
               height: 80%;
               width: 50%;
               background: white;
@@ -1738,11 +1739,11 @@ header img.logo{
   justify-content: center;
   align-items: center;
   flex-wrap: wrap;
-  width: 100%;
+  width: 90%;
   height: 1500px;
   background-color:#5fc1ce65 ;
   
-  padding: 40px 0;
+  padding-left: -100px;
   
  padding-right: 40px;
   letter-spacing: 1px;
@@ -1784,8 +1785,9 @@ header img.logo{
   justify-content: center;
   align-items: center;
   flex-wrap: wrap;
-  padding:30px;
-  margin-top: 50px;
+  padding:0px;
+  margin-top: 100px;
+  
 
 }
 .container_comments .crd{
